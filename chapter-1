@@ -1,0 +1,23 @@
+1. What is a typical resting potential difference across the membrane of a cortical neuron? Explain the biochemical mechanisms
+   that allow the neuron to maintain this potential difference? 
+
+Ans: -65 to -70 mV. The sodium potassium pumps on the membrane of a neuron maintain this potential difference by expending energy.
+
+
+2. Describe the sequence of events that gives rise to an action potential. Start from a volley of action potentials arriving along 
+   the input axons to the neuron and trace the biochemical and electrical consequences leading to an output action potential.
+
+Ans: The neuron receives an electrical signal through its dendrites first maybe due to the action potential from a presynaptic
+     neuron or due to some environmentary action, which opens the sodium ion channels in the neuron's membrane and causes rapid 
+     influx of Na+ ions into the neuron. This causes the neuron's membrane potential to go rise rapidly till it goes positive
+     , this causes the potassium ion channels to open up leading to a rapid outflux of Ka+ ions from the cell thus causing 
+     the membrane potential to go down again back to -70 mV. This spike from -70 to 0 to -70 again is called the action potential.
+     This spike travels through the axon to the axonal end where it leads to the release of chemicals called neurotransmitters 
+     in the synapse. These neurotransmitters are receieved by the dendrites of the post synaptic neuron thus leading to an action
+     potential in the postsynaptic neuron now.
+
+
+3. What are the four prominent types of synaptic plasticity observed in the brain? Explain how they serve to modify the effect of 
+   a presynaptic spike on the postsynaptic neuron.
+
+Ans: 
