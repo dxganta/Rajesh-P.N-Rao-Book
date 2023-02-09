@@ -1,12 +1,9 @@
 import math
-
-T = 310 # in Kelvin, 37 degrees Celsius
-R = 8.314 # in J/mol/K
-F = 96485 # in C/mol
+from constants import R, T, F
 
 def nernst_potential(conc_in, conc_out, z):
     """Return the Nernst potential for a given ion concentration
-    gradient and charge. in mV
+    gradient and charge in mV
     
     Arguments:
     conc_in -- concentration of the ion inside the cell in mM
