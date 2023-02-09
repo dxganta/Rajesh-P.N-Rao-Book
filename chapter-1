@@ -20,4 +20,33 @@ Ans: The neuron receives an electrical signal through its dendrites first maybe 
 3. What are the four prominent types of synaptic plasticity observed in the brain? Explain how they serve to modify the effect of 
    a presynaptic spike on the postsynaptic neuron.
 
+Ans: 1. Long Term Potentiation (LTP) : It strengthens the effect of the presynaptic spike on the postsynaptic neuron, caused by correlated
+      firing of the two neurons.
+    2. Long Term Depression (LTD) : It weakens the effect, caused by uncorrelated firing of the two neurons for a long time.
+    3. Spike Timing Dependent Plasticity (STDP) : It matters on the timing between the presynaptic spike and the postsynaptic spike.
+      If the presynaptic spike occurs slightly before the postsynaptic spike (e.g 1-40 ms before), the synapse is strenghtened and vice versa.
+    4. Short Term Facilitaion and Depression (STF/STD) : In STD the strength of the spikes gradually decrease with each successive
+      spike between the neurons until an equilibrium is reached after which all successive spikes have the same diminished effect.
+      In STF the opposite happens and each successive spike is strenghtened untill an equilibrium is reached. 
+
+ 
+4. What are the major components of the CNS and the PNS ?
+
+Ans: CNS: Brain and Spinal Cord
+      PNS: Somatic Nervous System and Autonomic Nervous System
+
+
+5. Describe the functions that have been ascribed to the brain stem and the cerebellum.
+
+Ans: The brain stem conveys all information from the brain to various parts of the body. Cerebellum is responsible for 
+      coordination of movements.
+
+
+6. What are the major components and functions of the diencephalon?
+
+Ans: Thalamus: It acts as a "relay station" that conveys information from the sensory organs to the neocortex.
+      Hypothalamus: It is involved in basic human needs like fighting, feeding, fleeing and mating.
+
+7. What are some of the functions thought to be carried out by the basal ganglia and the hippocampus?
+
 Ans: 
