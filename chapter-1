@@ -1,52 +1,49 @@
 1. What is a typical resting potential difference across the membrane of a cortical neuron? Explain the biochemical mechanisms
-   that allow the neuron to maintain this potential difference? 
+   that allow the neuron to maintain this potential difference?
+   Ans: -65 to -70 mV. The sodium potassium pumps on the membrane of a neuron maintain this potential difference by expending energy.
 
-Ans: -65 to -70 mV. The sodium potassium pumps on the membrane of a neuron maintain this potential difference by expending energy.
-
-
-2. Describe the sequence of events that gives rise to an action potential. Start from a volley of action potentials arriving along 
+2. Describe the sequence of events that gives rise to an action potential. Start from a volley of action potentials arriving along
    the input axons to the neuron and trace the biochemical and electrical consequences leading to an output action potential.
+   Ans: The neuron receives an electrical signal through its dendrites first maybe due to the action potential from a presynaptic
+   neuron or due to some environmentary action, which opens the sodium ion channels in the neuron's membrane and causes rapid
+   influx of Na+ ions into the neuron. This causes the neuron's membrane potential to go rise rapidly till it goes positive
+   , this causes the potassium ion channels to open up leading to a rapid outflux of Ka+ ions from the cell thus causing
+   the membrane potential to go down again back to -70 mV. This spike from -70 to 0 to -70 again is called the action potential.
+   This spike travels through the axon to the axonal end where it leads to the release of chemicals called neurotransmitters
+   in the synapse. These neurotransmitters are receieved by the dendrites of the post synaptic neuron thus leading to an action
+   potential in the postsynaptic neuron now.
 
-Ans: The neuron receives an electrical signal through its dendrites first maybe due to the action potential from a presynaptic
-     neuron or due to some environmentary action, which opens the sodium ion channels in the neuron's membrane and causes rapid 
-     influx of Na+ ions into the neuron. This causes the neuron's membrane potential to go rise rapidly till it goes positive
-     , this causes the potassium ion channels to open up leading to a rapid outflux of Ka+ ions from the cell thus causing 
-     the membrane potential to go down again back to -70 mV. This spike from -70 to 0 to -70 again is called the action potential.
-     This spike travels through the axon to the axonal end where it leads to the release of chemicals called neurotransmitters 
-     in the synapse. These neurotransmitters are receieved by the dendrites of the post synaptic neuron thus leading to an action
-     potential in the postsynaptic neuron now.
-
-
-3. What are the four prominent types of synaptic plasticity observed in the brain? Explain how they serve to modify the effect of 
+3. What are the four prominent types of synaptic plasticity observed in the brain? Explain how they serve to modify the effect of
    a presynaptic spike on the postsynaptic neuron.
+   Ans: 1. Long Term Potentiation (LTP) : It strengthens the effect of the presynaptic spike on the postsynaptic neuron, caused by correlated
+   firing of the two neurons. 2. Long Term Depression (LTD) : It weakens the effect, caused by uncorrelated firing of the two neurons for a long time. 3. Spike Timing Dependent Plasticity (STDP) : It matters on the timing between the presynaptic spike and the postsynaptic spike.
+   If the presynaptic spike occurs slightly before the postsynaptic spike (e.g 1-40 ms before), the synapse is strenghtened and vice versa. 4. Short Term Facilitaion and Depression (STF/STD) : In STD the strength of the spikes gradually decrease with each successive
+   spike between the neurons until an equilibrium is reached after which all successive spikes have the same diminished effect.
+   In STF the opposite happens and each successive spike is strenghtened untill an equilibrium is reached.
 
-Ans: 1. Long Term Potentiation (LTP) : It strengthens the effect of the presynaptic spike on the postsynaptic neuron, caused by correlated
-      firing of the two neurons.
-    2. Long Term Depression (LTD) : It weakens the effect, caused by uncorrelated firing of the two neurons for a long time.
-    3. Spike Timing Dependent Plasticity (STDP) : It matters on the timing between the presynaptic spike and the postsynaptic spike.
-      If the presynaptic spike occurs slightly before the postsynaptic spike (e.g 1-40 ms before), the synapse is strenghtened and vice versa.
-    4. Short Term Facilitaion and Depression (STF/STD) : In STD the strength of the spikes gradually decrease with each successive
-      spike between the neurons until an equilibrium is reached after which all successive spikes have the same diminished effect.
-      In STF the opposite happens and each successive spike is strenghtened untill an equilibrium is reached. 
-
- 
 4. What are the major components of the CNS and the PNS ?
-
-Ans: CNS: Brain and Spinal Cord
-      PNS: Somatic Nervous System and Autonomic Nervous System
-
+   Ans: CNS: Brain and Spinal Cord
+   PNS: Somatic Nervous System and Autonomic Nervous System
 
 5. Describe the functions that have been ascribed to the brain stem and the cerebellum.
-
-Ans: The brain stem conveys all information from the brain to various parts of the body. Cerebellum is responsible for 
-      coordination of movements.
-
+   Ans: The brain stem conveys all information from the brain to various parts of the body. Cerebellum is responsible for
+   coordination of movements.
 
 6. What are the major components and functions of the diencephalon?
-
-Ans: Thalamus: It acts as a "relay station" that conveys information from the sensory organs to the neocortex.
-      Hypothalamus: It is involved in basic human needs like fighting, feeding, fleeing and mating.
+   Ans: Thalamus: It acts as a "relay station" that conveys information from the sensory organs to the neocortex.
+   Hypothalamus: It is involved in basic human needs like fighting, feeding, fleeing and mating.
 
 7. What are some of the functions thought to be carried out by the basal ganglia and the hippocampus?
+   Ans: The basal ganglia plays an important role in motor control and action selection. The hippocampus is important for memory and learning, besides spatial cognition.
 
-Ans: 
+8. Approximately how many cells does the neocortex contain? How many synapses on average does a corital neuron have with other neurons?
+   Ans: 30 billion. 10,000 synapses.
+
+9. What are the major areas of the neocortex and what are some of their functions?
+   Ans: Occipital Lobe - near the back of the head speicialize in basic visual processing.
+   Parietal Lobe - near the front of the head speicialize in motion processing and spatial reasoning.
+   Visual and auditory recognition occurs in the temporal areas while frontal areas are involved in planning and higher
+   cognitive functions.
+
+10. Is the cortex hierarchically organized? Discuss evidence for and against this hypothesis?
+    Ans:
